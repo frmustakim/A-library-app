@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">DIU Library</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <!-- BookList Content-->
+    <string name="editBookDetails">Edit Book Details</string>
+    <string name="deleteBook">Remove</string>
+    <string name="detailsOfBook">Details</string>
+    <string name="addQuantity">Add Quantity</string>
+    <string name="borrow">Borrow</string>
+
+    <string name="isbnNumber">ISBN</string>
+    <string name="bookName">Book Name</string>
+    <string name="authorName">Author Name</string>
+    <string name="edition">Book Edition</string>
+    <string name="bookCategory">Book Category</string>
+    <string name="publisher">Publisher</string>
+    <string name="location">Book Self No.</string>
+    <string name="quantity">Quantity</string>
+
+
+    <!-- Add New Book Activity -->
+    <string name="titleActivity_AddNew">Add New Book</string>
+    <string name="goToBookList">Book List</string>
+    <string name="isbn">ISBN Code</string>
+    <string name="addBookBtn">Add New Book</string>
+    <string name="book_type_prompt">Choose Book Category</string>
+    <string-array name="book_type_list">
+        <item>Computer Fundamentals</item>
+        <item>Programming</item>
+        <item>Novel</item>
+        <item>Networking</item>
+        <item>Electronics</item>
+    </string-array>
+
+    <!-- Edit book Activity -->
+    <string name="title_Activity_Edit">Edit Book</string>
+    <string name="update_book_info">Update Book Info</string>
+
+    <!-- Borrow Book Activity -->
+    <string name="title_activity_borrow_book">Borrow Book</string>
+    <string name="user_id">User ID</string>
+    <string name="user_name">User Name</string>
+    <string name="isbn_code">ISBN Code</string>
+    <string name="book_name">Book Name</string>
+    <string name="borrow_book">Borrow Book</string>
+    <string name="returnBook">Return Book</string>
+
+</resources>
